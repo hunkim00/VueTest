@@ -3,6 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
     <router-link to="/profile">나의 프로필</router-link>
+    <img src = "@/components/static/image/DD.png" />
   </nav>
 </template>
 
